@@ -1,0 +1,4 @@
+blackIp:
+  coutinueCounts: 35   #ip连续请求的次数
+  timeInterval: 10  #ip判断的事件间隔 单位：秒
+  limitTimes: 600      
